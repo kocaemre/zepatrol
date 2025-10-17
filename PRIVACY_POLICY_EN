@@ -1,0 +1,171 @@
+# Zepatrol Privacy Policy
+
+**Last Updated**: October 17, 2025
+
+## Summary
+
+Zepatrol takes user privacy seriously. **We do not collect, store, or share any personal data.**
+
+## Data Collection
+
+### Data We Do NOT Collect ❌
+- Personal information (name, email, phone, etc.)
+- Browsing history
+- Visited URLs
+- IP address
+- Location data
+- Usage statistics
+- Analytics data
+- Cookies
+
+### Data Used by the Extension ✅
+
+The extension stores **only on your device** (local storage) the following data:
+
+1. **Whitelist**
+   - List of protected crypto sites
+   - Automatically updated from GitHub
+   - Not sent to any servers
+
+2. **Your Custom Sites**
+   - Sites you add yourself
+   - Stored only on your device
+   - Never uploaded anywhere
+
+3. **Settings**
+   - Extension enabled/disabled status
+   - Personalization preferences
+   - Completely local
+
+4. **Statistics**
+   - Number of blocked attempts
+   - Only numerical values
+   - No information about which sites were blocked
+
+All this data is stored **only on your device** using Chrome Storage API and **never leaves your device**.
+
+## External Connections
+
+The extension makes internet connections only in the following cases:
+
+### GitHub API (Whitelist Updates)
+- **When**: During initial setup and weekly automatic updates
+- **Where**: `https://raw.githubusercontent.com/zepatrol/whitelist-db/main/`
+- **What's sent**: Nothing (only file download)
+- **What's received**: Updated whitelist (site list)
+
+No personal data is sent during this process. Only a standard HTTP GET request is made.
+
+## Permissions Explanation
+
+The extension uses the following Chrome permissions:
+
+### `storage`
+- **Purpose**: Store whitelist and settings
+- **Data**: Only on device, in Chrome Storage
+- **Sharing**: Never shared anywhere
+
+### `bookmarks`
+- **Purpose**: Provide phishing protection through bookmark checking
+- **Access**: Only reads bookmark URLs
+- **Transmission**: Never sent anywhere
+
+### `alarms`
+- **Purpose**: Timer for weekly whitelist updates
+- **Usage**: Only local timer
+
+### `tabs`
+- **Purpose**: Show blocked page
+- **Access**: Only active tab URL
+- **Usage**: For URL whitelist checking
+
+### `webNavigation`
+- **Purpose**: Detect navigation from bookmarks
+- **Access**: Navigation events
+- **Usage**: For bookmark detection
+
+### `<all_urls>` (Host Permissions)
+- **Purpose**: Perform phishing checks on all websites
+- **Usage**: Only whitelisted sites are checked
+- **Data collection**: No data is collected
+
+## Third-Party Services
+
+The extension **does not send data to any third-party services**:
+
+- ❌ No Google Analytics
+- ❌ No advertising networks
+- ❌ No tracking services
+- ❌ No error reporting services
+- ❌ No social media widgets
+
+Only external connection: GitHub (for whitelist updates)
+
+## Children's Privacy
+
+The extension does not knowingly collect data from children under 13. We **don't collect data from any users anyway**.
+
+## Data Security
+
+- All data is stored on your device (Chrome Storage)
+- Compliant with Chrome's security standards
+- No server-side data storage
+- Encryption: Chrome's native storage encryption
+
+## User Rights
+
+### Delete Your Data
+You can delete all data by removing the extension:
+1. Open `chrome://extensions/`
+2. Click "Remove" on Zepatrol
+3. All local data is deleted
+
+### Export Your Data
+You can export your settings as JSON from the Settings page using the "Export" button.
+
+## Changes
+
+If this privacy policy is updated:
+- Announced in extension update notes
+- Published in GitHub repository changelog
+- Users are notified
+
+## Contact
+
+For privacy-related questions:
+- Email: privacy@zepatrol.xyz
+- GitHub Issues: https://github.com/zepatrol/zepatrol/issues
+
+## Legal Compliance
+
+### GDPR (Europe)
+Zepatrol is fully compliant with GDPR because it **does not process any personal data**.
+
+### KVKK (Turkey)
+Zepatrol is fully compliant with KVKK because it **does not collect any personal data**.
+
+### CCPA (California)
+Zepatrol is fully compliant with CCPA because it **does not sell user data** (doesn't collect any).
+
+## Open Source
+
+All source code is open on GitHub:
+- https://github.com/zepatrol/zepatrol
+- You can verify our privacy claims by examining the code
+
+---
+
+## Summary (TL;DR)
+
+✅ **We don't collect any data**
+✅ **No data is transmitted**
+✅ **All operations are local**
+✅ **Open source and transparent**
+✅ **GDPR/KVKK compliant**
+
+🛡️ **Zepatrol - Your privacy is our priority**
+
+---
+
+**Last Updated**: October 17, 2025
+**Version**: 1.0
