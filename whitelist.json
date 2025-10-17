@@ -1,0 +1,481 @@
+{
+  "version": "1.0.0",
+  "released": "2025-10-17T10:00:00Z",
+  "totalSites": 52,
+  "sites": [
+    {
+      "domain": "app.uniswap.org",
+      "name": "Uniswap",
+      "category": "DEX",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism", "base"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "pancakeswap.finance",
+      "name": "PancakeSwap",
+      "category": "DEX",
+      "chains": ["bsc", "ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.1inch.io",
+      "name": "1inch",
+      "category": "DEX Aggregator",
+      "chains": ["ethereum", "bsc", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "curve.fi",
+      "name": "Curve Finance",
+      "category": "DEX",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.sushi.com",
+      "name": "SushiSwap",
+      "category": "DEX",
+      "chains": ["ethereum", "polygon", "arbitrum", "bsc"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.balancer.fi",
+      "name": "Balancer",
+      "category": "DEX",
+      "chains": ["ethereum", "polygon", "arbitrum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.aave.com",
+      "name": "Aave",
+      "category": "Lending",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism", "avalanche"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "compound.finance",
+      "name": "Compound",
+      "category": "Lending",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.spark.fi",
+      "name": "Spark Protocol",
+      "category": "Lending",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.morpho.org",
+      "name": "Morpho",
+      "category": "Lending",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "opensea.io",
+      "name": "OpenSea",
+      "category": "NFT Marketplace",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "blur.io",
+      "name": "Blur",
+      "category": "NFT Marketplace",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "rarible.com",
+      "name": "Rarible",
+      "category": "NFT Marketplace",
+      "chains": ["ethereum", "polygon"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "looksrare.org",
+      "name": "LooksRare",
+      "category": "NFT Marketplace",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "x2y2.io",
+      "name": "X2Y2",
+      "category": "NFT Marketplace",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "metamask.io",
+      "name": "MetaMask",
+      "category": "Wallet",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "rabby.io",
+      "name": "Rabby Wallet",
+      "category": "Wallet",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "rainbow.me",
+      "name": "Rainbow Wallet",
+      "category": "Wallet",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "phantom.app",
+      "name": "Phantom Wallet",
+      "category": "Wallet",
+      "chains": ["solana", "ethereum", "polygon"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "etherscan.io",
+      "name": "Etherscan",
+      "category": "Explorer",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "bscscan.com",
+      "name": "BscScan",
+      "category": "Explorer",
+      "chains": ["bsc"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "polygonscan.com",
+      "name": "PolygonScan",
+      "category": "Explorer",
+      "chains": ["polygon"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "arbiscan.io",
+      "name": "Arbiscan",
+      "category": "Explorer",
+      "chains": ["arbitrum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "optimistic.etherscan.io",
+      "name": "Optimism Explorer",
+      "category": "Explorer",
+      "chains": ["optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "basescan.org",
+      "name": "BaseScan",
+      "category": "Explorer",
+      "chains": ["base"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.optimism.io",
+      "name": "Optimism Bridge",
+      "category": "Bridge",
+      "chains": ["ethereum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "bridge.arbitrum.io",
+      "name": "Arbitrum Bridge",
+      "category": "Bridge",
+      "chains": ["ethereum", "arbitrum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.rhino.fi",
+      "name": "Rhino.fi",
+      "category": "Bridge",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.hop.exchange",
+      "name": "Hop Protocol",
+      "category": "Bridge",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "stake.lido.fi",
+      "name": "Lido",
+      "category": "Staking",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.rocketpool.net",
+      "name": "Rocket Pool",
+      "category": "Staking",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.ens.domains",
+      "name": "ENS Domains",
+      "category": "Identity",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "www.coinbase.com",
+      "name": "Coinbase",
+      "category": "Exchange",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "www.binance.com",
+      "name": "Binance",
+      "category": "Exchange",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "www.kraken.com",
+      "name": "Kraken",
+      "category": "Exchange",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.safe.global",
+      "name": "Safe (Gnosis Safe)",
+      "category": "Wallet",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "yearn.fi",
+      "name": "Yearn Finance",
+      "category": "Yield",
+      "chains": ["ethereum", "polygon", "arbitrum", "optimism"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.convexfinance.com",
+      "name": "Convex Finance",
+      "category": "Yield",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.frax.finance",
+      "name": "Frax Finance",
+      "category": "Stablecoin",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.makerdao.com",
+      "name": "MakerDAO",
+      "category": "Stablecoin",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "gmx.io",
+      "name": "GMX",
+      "category": "Derivatives",
+      "chains": ["arbitrum", "avalanche"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.dydx.exchange",
+      "name": "dYdX",
+      "category": "Derivatives",
+      "chains": ["ethereum"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "zapper.xyz",
+      "name": "Zapper",
+      "category": "Portfolio",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "debank.com",
+      "name": "DeBank",
+      "category": "Portfolio",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "www.coingecko.com",
+      "name": "CoinGecko",
+      "category": "Data",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "coinmarketcap.com",
+      "name": "CoinMarketCap",
+      "category": "Data",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "defillama.com",
+      "name": "DefiLlama",
+      "category": "Data",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "revoke.cash",
+      "name": "Revoke.cash",
+      "category": "Security",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.zerion.io",
+      "name": "Zerion",
+      "category": "Portfolio",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "trade.dextools.io",
+      "name": "DEXTools",
+      "category": "Data",
+      "chains": ["ethereum", "bsc"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "app.unisat.io",
+      "name": "UniSat Wallet",
+      "category": "Wallet",
+      "chains": ["bitcoin"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    },
+    {
+      "domain": "stargate.finance",
+      "name": "Stargate Finance",
+      "category": "Bridge",
+      "chains": ["multi"],
+      "verified": true,
+      "addedAt": "2025-10-17T10:00:00Z",
+      "riskLevel": "low"
+    }
+  ],
+  "changelog": {
+    "added": [],
+    "removed": [],
+    "security": []
+  }
+}
+
